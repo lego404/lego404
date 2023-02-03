@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Wave&color=000000&height=300&section=header&text=Goeun%20Lee&fontSize=80&animation=fadeIn&fontColor=ffffff&stroke=8A8988&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?type=Wave&color=000000&height=300&section=header&text=Goeun%20Lee&fontSize=80&animation=twinkling&fontColor=ffffff&stroke=8A8988&strokeWidth=3)
 
 <!--
 **lego404/lego404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
