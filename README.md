@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Wave&color=000000&height=300&section=header&text=Goeun%20Lee&fontSize=80&animation=twinkling&fontColor=ffffff&stroke=8A8988&strokeWidth=3)
 
-<img width="100%" src= "https://user-images.githubusercontent.com/71643183/216723571-06c59f4f-c771-4b95-a9c5-0e962ee5b027.jpg">
+<img width="90%" src= "https://user-images.githubusercontent.com/71643183/216723571-06c59f4f-c771-4b95-a9c5-0e962ee5b027.jpg">
 
 
 
