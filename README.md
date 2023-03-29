@@ -1,3 +1,4 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=Wave&color=000000&height=300&section=header&text=Gone%20&fontSize=80&animation=twinkling&fontColor=ffffff&stroke=8A8988&strokeWidth=3)
 
 <img width="90%" src= "https://user-images.githubusercontent.com/71643183/216723571-06c59f4f-c771-4b95-a9c5-0e962ee5b027.jpg">
@@ -5,6 +6,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lego404)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lego404)](https://github.com/anuraghazra/github-readme-stats)
 
+ </div>
 <!--
 **lego404/lego404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
