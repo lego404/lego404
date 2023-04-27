@@ -6,7 +6,7 @@
 <img width="90%" src= "https://user-images.githubusercontent.com/71643183/216723571-06c59f4f-c771-4b95-a9c5-0e962ee5b027.jpg">
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+![lego404's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 </div>
 
 <!--
